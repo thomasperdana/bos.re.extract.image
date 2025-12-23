@@ -1,0 +1,7 @@
+{
+  "name": "Zillow Property Image Extractor",
+  "description": "A sophisticated tool that uses Gemini's search capabilities to find and download high-resolution images from Zillow and other real estate listing URLs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
